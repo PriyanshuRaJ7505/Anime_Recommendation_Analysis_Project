@@ -1,0 +1,31 @@
+userId,animeId,animeTitle,genre,rating,year,episodes,studio,status,reviewScore
+1,101,Attack on Titan,Action,5,2013,25,Wit Studio,Completed,9
+2,102,Death Note,Thriller,4,2006,37,Madhouse,Completed,8
+3,101,Demon Slayer,Action,4,2019,26,Ufotable,Ongoing,9
+4,103,Your Name,Romance,5,2016,1,CoMix Wave Films,Completed,9
+5,102,Steins;Gate,Sci-Fi,5,2011,24,White Fox,Completed,9
+6,104,Naruto,Action,3,2002,220,Studio Pierrot,Completed,7
+7,105,Tokyo Ghoul,Dark Fantasy,4,2014,12,Studio Pierrot,Completed,8
+8,101,Attack on Titan,Action,4,2013,25,Wit Studio,Completed,9
+9,106,Fairy Tail,Adventure,3,2009,175,A-1 Pictures,Completed,7
+10,103,Your Name,Romance,5,2016,1,CoMix Wave Films,Completed,9
+11,107,Demon Slayer,Action,5,2019,26,Ufotable,Ongoing,9
+12,102,Death Note,Thriller,5,2006,37,Madhouse,Completed,8
+13,104,Naruto,Action,4,2002,220,Studio Pierrot,Completed,7
+14,105,Tokyo Ghoul,Dark Fantasy,3,2014,12,Studio Pierrot,Completed,8
+15,106,Fairy Tail,Adventure,4,2009,175,A-1 Pictures,Completed,7
+16,108,Fullmetal Alchemist,Action,5,2005,51,Bones,Completed,9
+17,109,Code Geass,Mecha,4,2006,25,Sunrise,Completed,8
+18,110,Bleach,Action,3,2004,366,Studio Pierrot,Completed,7
+19,111,One Piece,Adventure,4,2000,1000,Toei Animation,Ongoing,7
+20,108,Fullmetal Alchemist,Action,5,2005,51,Bones,Completed,9
+21,109,Code Geass,Mecha,5,2006,25,Sunrise,Completed,8
+22,110,Bleach,Action,4,2004,366,Studio Pierrot,Completed,7
+23,111,One Piece,Adventure,5,2000,1000,Toei Animation,Ongoing,7
+24,112,Neon Genesis Evangelion,Mecha,4,1995,26,Gainax,Completed,8
+25,113,Cowboy Bebop,Sci-Fi,5,1998,26,Sunrise,Completed,9
+26,114,Trigun,Western,4,1998,26,Madhouse,Completed,8
+27,115,Yu Yu Hakusho,Action,4,1992,112,Pierrot,Completed,8
+28,113,Cowboy Bebop,Sci-Fi,5,1998,26,Sunrise,Completed,9
+29,114,Trigun,Western,5,1998,26,Madhouse,Completed,8
+30,115,Yu Yu Hakusho,Action,3,1992,112,Pierrot,Completed,8
